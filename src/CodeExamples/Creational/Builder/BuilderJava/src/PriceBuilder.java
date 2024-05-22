@@ -28,7 +28,7 @@ public class PriceBuilder implements Builder {
 	}
 
 	@Override
-	public void finsish() {
+	public void finish() {
 		total += 400;
 
 	}

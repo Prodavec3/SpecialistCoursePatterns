@@ -29,7 +29,7 @@ public class HouseBuilder implements Builder {
 	}
 
 	@Override
-	public void finsish() {
+	public void finish() {
 		out.println("Отделка");
 		house.setFinish(true);
 	}

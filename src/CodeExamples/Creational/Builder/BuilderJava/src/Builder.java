@@ -5,6 +5,6 @@ public interface Builder {
 	void perpare();
 	void mainWork();
 	void addServiceLines();
-	void finsish();
+	void finish();
 
 }
