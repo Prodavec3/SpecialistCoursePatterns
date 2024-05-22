@@ -4,7 +4,7 @@ import Lab1.graph.AbstractGOFactory;
 import Lab1.graph.ColorGOFactory;
 import Lab1.graph.Scene;
 
-public class Program {
+public class Main {
 
 	public static void main(String[] args) {
 		AbstractGOFactory gof = new ColorGOFactory();
