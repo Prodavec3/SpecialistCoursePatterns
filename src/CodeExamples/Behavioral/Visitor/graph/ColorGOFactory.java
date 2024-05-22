@@ -1,4 +1,4 @@
-package graph;
+package CodeExamples.Behavioral.Visitor.graph;
 
 public class ColorGOFactory extends AbstractGOFactory {
 	public static final Point DEFAULT_POINT = new Point(0,0); 	

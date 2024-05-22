@@ -1,4 +1,4 @@
-package roofs;
+package CodeExamples.Creational.AbstractFactory.roofs;
 
 import static java.lang.System.out;
 

@@ -1,10 +1,8 @@
-package iterator;
+package CodeExamples.Behavioral.Iterator.iterator;
 
-import widgets.UIComponent;
+import CodeExamples.Behavioral.Iterator.widgets.UIComponent;
 
 public interface UIIterator {
 	UIComponent getNext();
 	boolean hasMore();
-	
-
 }

@@ -1,4 +1,4 @@
-package nature.flyweight;
+package CodeExamples.Structural.Flyweight.nature.flyweight;
 
 import java.io.FileInputStream;
 import java.io.IOException;

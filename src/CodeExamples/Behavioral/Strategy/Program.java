@@ -1,6 +1,8 @@
-import strategies.MaxStrategy;
-import strategies.MinStrategy;
-import strategies.RandomStrategy;
+package CodeExamples.Behavioral.Strategy;
+
+import CodeExamples.Behavioral.Strategy.strategies.MaxStrategy;
+import CodeExamples.Behavioral.Strategy.strategies.MinStrategy;
+import CodeExamples.Behavioral.Strategy.strategies.RandomStrategy;
 
 public class Program {
 

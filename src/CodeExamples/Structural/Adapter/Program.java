@@ -1,3 +1,5 @@
+package CodeExamples.Structural.Adapter;
+
 import static java.lang.System.out;
 public class Program {
 

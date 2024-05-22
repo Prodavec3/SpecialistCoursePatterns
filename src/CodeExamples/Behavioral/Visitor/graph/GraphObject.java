@@ -1,7 +1,7 @@
-package graph;
+package CodeExamples.Behavioral.Visitor.graph;
 
-import exports.ExportVisitor;
-import exports.Exportable;
+import CodeExamples.Behavioral.Visitor.exports.ExportVisitor;
+import CodeExamples.Behavioral.Visitor.exports.Exportable;
 
 public abstract class GraphObject implements Cloneable, Exportable{
 	

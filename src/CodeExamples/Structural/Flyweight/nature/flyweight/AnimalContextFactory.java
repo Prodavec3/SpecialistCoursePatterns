@@ -1,7 +1,7 @@
-package nature.flyweight;
+package CodeExamples.Structural.Flyweight.nature.flyweight;
 
-import nature.Animal;
-import nature.AnimalFactory;
+import CodeExamples.Structural.Flyweight.nature.Animal;
+import CodeExamples.Structural.Flyweight.nature.AnimalFactory;
 
 public class AnimalContextFactory extends AnimalFactory {
 	@Override

@@ -1,4 +1,4 @@
-package widgets;
+package CodeExamples.Structural.Decorator.widgets;
 import static java.lang.System.out;
 
 public class Button extends ContentControl {

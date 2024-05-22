@@ -1,10 +1,11 @@
-package factories;
-import roofs.Roof;
-import roofs.TileRoof;
-import walls.BrickWall;
-import walls.Wall;
-import windows.PlasticFrameWindow;
-import windows.Window;
+package CodeExamples.Creational.AbstractFactory.factories;
+
+import CodeExamples.Creational.AbstractFactory.roofs.Roof;
+import CodeExamples.Creational.AbstractFactory.roofs.TileRoof;
+import CodeExamples.Creational.AbstractFactory.walls.BrickWall;
+import CodeExamples.Creational.AbstractFactory.walls.Wall;
+import CodeExamples.Creational.AbstractFactory.windows.PlasticFrameWindow;
+import CodeExamples.Creational.AbstractFactory.windows.Window;
 
 public class StoneHouseFactory implements HouseFactory {
 

@@ -1,6 +1,6 @@
-package states;
+package CodeExamples.Behavioral.State.states;
 
-import documents.Document;
+import CodeExamples.Behavioral.State.documents.Document;
 
 public class ReviewState extends State {
 

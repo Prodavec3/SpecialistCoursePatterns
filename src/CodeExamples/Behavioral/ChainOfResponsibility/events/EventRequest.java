@@ -1,4 +1,4 @@
-package events;
+package CodeExamples.Behavioral.ChainOfResponsibility.events;
 
 public class EventRequest {
 	private boolean handled = false;

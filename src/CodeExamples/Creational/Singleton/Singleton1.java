@@ -1,4 +1,4 @@
-
+package CodeExamples.Creational.Singleton;
 
 // - non thread safe
 public class Singleton1 {

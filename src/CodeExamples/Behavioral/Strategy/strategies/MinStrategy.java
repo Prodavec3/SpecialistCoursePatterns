@@ -1,4 +1,4 @@
-package strategies;
+package CodeExamples.Behavioral.Strategy.strategies;
 
 public class MinStrategy implements Strategy{
 

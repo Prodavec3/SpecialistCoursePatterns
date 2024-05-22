@@ -1,4 +1,6 @@
-import widgets.*;
+package CodeExamples.Structural.Composite;
+
+import CodeExamples.Structural.Composite.widgets.*;
 
 public class Program {
 

@@ -1,3 +1,4 @@
+package CodeExamples.Creational.Builder;
 
 public class Director {
 	private Builder builder;
@@ -12,8 +13,6 @@ public class Director {
 		builder.mainWork();
 		if (withServiceLine)
 			builder.addServiceLines();
-		builder.finsish();
+		builder.finish();
 	}
-	
-	
 }

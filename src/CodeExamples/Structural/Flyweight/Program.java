@@ -1,6 +1,7 @@
+package CodeExamples.Structural.Flyweight;
 
-import nature.AnimalFactory;
-import nature.flyweight.AnimalContextFactory;
+import CodeExamples.Structural.Flyweight.nature.AnimalFactory;
+import CodeExamples.Structural.Flyweight.nature.flyweight.AnimalContextFactory;
 
 public class Program {
 

@@ -1,6 +1,8 @@
-import iterator.ContentControlIterator;
-import iterator.UIIterator;
-import widgets.*;
+package CodeExamples.Behavioral.Iterator;
+
+import CodeExamples.Behavioral.Iterator.iterator.ContentControlIterator;
+import CodeExamples.Behavioral.Iterator.iterator.UIIterator;
+import CodeExamples.Behavioral.Iterator.widgets.*;
 
 public class Program {
 

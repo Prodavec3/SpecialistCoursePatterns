@@ -1,4 +1,4 @@
-package platforms;
+package CodeExamples.Structural.Bridge.platforms;
 
 public class MySQLDB implements Database{
 

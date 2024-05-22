@@ -1,3 +1,4 @@
+package CodeExamples.Structural.Adapter;
 
 /**
  * Адаптер объекта 

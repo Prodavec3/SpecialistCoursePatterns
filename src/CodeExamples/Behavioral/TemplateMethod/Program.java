@@ -1,3 +1,4 @@
+package CodeExamples.Behavioral.TemplateMethod;
 
 public class Program {
 

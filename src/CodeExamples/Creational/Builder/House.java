@@ -1,3 +1,4 @@
+package CodeExamples.Creational.Builder;
 
 public class House {
 	private boolean base = false;

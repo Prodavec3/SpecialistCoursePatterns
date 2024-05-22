@@ -1,3 +1,4 @@
+package CodeExamples.Creational.Prototype;
 
 // в Java есть готовый интерфейс Cloneable
 public interface Prototype {

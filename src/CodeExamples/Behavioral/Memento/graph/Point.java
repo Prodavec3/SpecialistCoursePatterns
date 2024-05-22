@@ -1,4 +1,4 @@
-package graph;
+package CodeExamples.Behavioral.Memento.graph;
 
 public class Point extends GraphObject {
 	private Coords coords;

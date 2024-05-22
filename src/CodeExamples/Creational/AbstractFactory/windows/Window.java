@@ -1,4 +1,4 @@
-package windows;
+package CodeExamples.Creational.AbstractFactory.windows;
 
 public interface Window {
 	void open();

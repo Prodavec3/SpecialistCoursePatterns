@@ -1,8 +1,10 @@
-package facades;
-import widgets.Button;
-import widgets.ContentControl;
-import widgets.Label;
-import widgets.MainWindow;
+package CodeExamples.Structural.Facade.facades;
+
+
+import CodeExamples.Structural.Facade.widgets.Button;
+import CodeExamples.Structural.Facade.widgets.ContentControl;
+import CodeExamples.Structural.Facade.widgets.Label;
+import CodeExamples.Structural.Facade.widgets.MainWindow;
 
 public class SimpleAppCreatorFacade extends AppCreatorFacade {
 	private MainWindow mainWin; 

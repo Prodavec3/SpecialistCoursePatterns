@@ -1,4 +1,6 @@
-import widgets.*;
+package CodeExamples.Behavioral.ChainOfResponsibility;
+
+import CodeExamples.Behavioral.ChainOfResponsibility.widgets.*;
 
 public class Program {
 

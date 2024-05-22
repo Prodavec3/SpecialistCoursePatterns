@@ -1,4 +1,6 @@
-import strategies.Strategy;
+package CodeExamples.Behavioral.Strategy;
+
+import CodeExamples.Behavioral.Strategy.strategies.Strategy;
 
 public class Context {
 	private Strategy strategy;

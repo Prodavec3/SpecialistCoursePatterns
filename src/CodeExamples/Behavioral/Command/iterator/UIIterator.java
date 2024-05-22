@@ -1,6 +1,6 @@
-package iterator;
+package CodeExamples.Behavioral.Command.iterator;
 
-import widgets.UIComponent;
+import CodeExamples.Behavioral.Command.widgets.UIComponent;
 
 public interface UIIterator {
 	UIComponent getNext();

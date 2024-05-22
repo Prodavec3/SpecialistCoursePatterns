@@ -1,12 +1,12 @@
-import platforms.Database;
-import platforms.MicrosoftSQLDB;
-import platforms.MySQLDB;
-import ui.AdminInterface;
-import ui.UserInterface;
+package CodeExamples.Structural.Bridge;
+
+import CodeExamples.Structural.Bridge.platforms.Database;
+import CodeExamples.Structural.Bridge.platforms.MicrosoftSQLDB;
+import CodeExamples.Structural.Bridge.platforms.MySQLDB;
+import CodeExamples.Structural.Bridge.ui.UserInterface;
+import CodeExamples.Structural.Bridge.ui.AdminInterface;
 
 public class Program {
-
-	
 	
 	public static void main(String[] args) {
 		/*	Создать программу работающую с базой данных

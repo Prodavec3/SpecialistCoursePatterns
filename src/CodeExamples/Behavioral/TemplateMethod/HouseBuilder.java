@@ -1,3 +1,5 @@
+package CodeExamples.Behavioral.TemplateMethod;
+
 import static java.lang.System.out;
 
 public class HouseBuilder {

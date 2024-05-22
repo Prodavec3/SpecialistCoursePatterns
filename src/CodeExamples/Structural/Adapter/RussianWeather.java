@@ -1,3 +1,4 @@
+package CodeExamples.Structural.Adapter;
 
 public class RussianWeather implements WeatherService {
 

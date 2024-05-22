@@ -1,4 +1,4 @@
-package graph;
+package CodeExamples.Behavioral.Memento.graph;
 
 public abstract class GraphObject implements Cloneable {
 	

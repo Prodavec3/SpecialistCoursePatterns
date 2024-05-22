@@ -1,4 +1,4 @@
-package graph;
+package Lab1.graph;
 
 import java.util.ArrayList;
 import java.util.List;

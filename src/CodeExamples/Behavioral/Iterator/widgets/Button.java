@@ -1,4 +1,5 @@
-package widgets;
+package CodeExamples.Behavioral.Iterator.widgets;
+
 import static java.lang.System.out;
 
 public class Button extends ContentControl {

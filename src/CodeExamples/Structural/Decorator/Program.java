@@ -1,5 +1,7 @@
-import decorators.CompositeTitleDecorator;
-import widgets.*;
+package CodeExamples.Structural.Decorator;
+
+import CodeExamples.Structural.Decorator.decorators.CompositeTitleDecorator;
+import CodeExamples.Structural.Decorator.widgets.*;
 
 public class Program {
 
@@ -7,7 +9,7 @@ public class Program {
 		
 		// декорируем главное окно, превращая его в окно с заголовоком
 		CompositeControl mainWin = new CompositeTitleDecorator(
-				new MainWindow(), "Main Window title") ;
+				new MainWindow(), "Main Window title");
 		
 		CompositeControl frame1 = new CompositeControl();
 		CompositeControl frame2 = new CompositeControl();

@@ -1,4 +1,4 @@
-package graph;
+package CodeExamples.Behavioral.Memento.graph;
 
 import java.util.ArrayList;
 import java.util.List;

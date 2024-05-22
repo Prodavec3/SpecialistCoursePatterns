@@ -1,7 +1,7 @@
-package decorators;
+package CodeExamples.Structural.Decorator.decorators;
 
 
-import widgets.CompositeControl;
+import CodeExamples.Structural.Decorator.widgets.CompositeControl;
 
 public abstract class CompositeBaseDecorator extends CompositeControl {
 	protected CompositeControl wrappee;

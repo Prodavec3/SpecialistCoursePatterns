@@ -1,8 +1,8 @@
-package decorators;
+package CodeExamples.Structural.Decorator.decorators;
 
 import static java.lang.System.out;
 
-import widgets.CompositeControl;
+import CodeExamples.Structural.Decorator.widgets.CompositeControl;
 
 public class CompositeTitleDecorator extends CompositeBaseDecorator {
 
@@ -11,10 +11,13 @@ public class CompositeTitleDecorator extends CompositeBaseDecorator {
 	public CompositeTitleDecorator(CompositeControl wrappee) {
 		this(wrappee, null);
 	}
+
 	public CompositeTitleDecorator(CompositeControl wrappee, String title) {
 		super(wrappee);
 		this.title = title;
 	}
+
+
 	
 	@Override
 	public boolean draw(int line) {

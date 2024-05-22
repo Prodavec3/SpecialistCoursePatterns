@@ -1,3 +1,4 @@
+package CodeExamples.Creational.Prototype;
 
 public class Point implements Cloneable {
 

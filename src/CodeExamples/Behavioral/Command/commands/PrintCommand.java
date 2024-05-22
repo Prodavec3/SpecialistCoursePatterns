@@ -1,8 +1,8 @@
-package commands;
+package CodeExamples.Behavioral.Command.commands;
 
-import iterator.ContentControlIterator;
-import logic.PrintSpooler;
-import widgets.CompositeControl;
+import CodeExamples.Behavioral.Command.iterator.ContentControlIterator;
+import CodeExamples.Behavioral.Command.logic.PrintSpooler;
+import CodeExamples.Behavioral.Command.widgets.CompositeControl;
 
 // команда с параметрами
 public class PrintCommand extends Command {

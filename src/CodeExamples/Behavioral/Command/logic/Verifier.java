@@ -1,4 +1,4 @@
-package logic;
+package CodeExamples.Behavioral.Command.logic;
 
 public class Verifier {
 	

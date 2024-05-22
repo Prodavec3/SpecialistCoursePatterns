@@ -1,4 +1,6 @@
-import documents.Invoice;
+package CodeExamples.Behavioral.State;
+
+import CodeExamples.Behavioral.State.documents.Invoice;
 
 public class Program {
 

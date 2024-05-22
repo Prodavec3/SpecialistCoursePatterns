@@ -1,4 +1,4 @@
-package graph;
+package Lab1.graph;
 
 public class Circle extends GraphObject {
 	private Coords center;

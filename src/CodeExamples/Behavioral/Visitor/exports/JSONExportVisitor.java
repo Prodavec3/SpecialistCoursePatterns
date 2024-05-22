@@ -1,7 +1,7 @@
-package exports;
+package CodeExamples.Behavioral.Visitor.exports;
 
-import graph.Circle;
-import graph.Point;
+import CodeExamples.Behavioral.Visitor.graph.Circle;
+import CodeExamples.Behavioral.Visitor.graph.Point;
 
 // методы Visitor'а можно назвать одинаково, 
 // но с разными типами параметров для разных объектов 

@@ -1,8 +1,9 @@
-package widgets;
+package CodeExamples.Behavioral.Command.widgets;
+
 import static java.lang.System.out;
 
-import commands.Command;
-import commands.CommandInvoker;
+import CodeExamples.Behavioral.Command.commands.Command;
+import CodeExamples.Behavioral.Command.commands.CommandInvoker;
 
 public class Button extends ContentControl implements CommandInvoker {
 	final static char BUTTON_FRAME = '*';

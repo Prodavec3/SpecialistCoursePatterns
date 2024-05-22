@@ -1,6 +1,6 @@
-package commands;
+package CodeExamples.Behavioral.Command.commands;
 
-import logic.LogicFactory;
+import CodeExamples.Behavioral.Command.logic.LogicFactory;
 
 // команда без параметров
 public class VerifyCommand extends Command{

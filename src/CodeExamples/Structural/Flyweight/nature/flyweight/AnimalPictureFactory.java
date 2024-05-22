@@ -1,4 +1,4 @@
-package nature.flyweight;
+package CodeExamples.Structural.Flyweight.nature.flyweight;
 
 import java.util.HashMap;
 import java.util.Map;

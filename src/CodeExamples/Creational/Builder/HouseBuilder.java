@@ -1,3 +1,5 @@
+package CodeExamples.Creational.Builder;
+
 import static java.lang.System.out;
 
 public class HouseBuilder implements Builder {

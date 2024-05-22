@@ -1,4 +1,4 @@
-package widgets;
+package CodeExamples.Behavioral.ChainOfResponsibility.widgets;
 
 public class Label extends ContentControl {
 

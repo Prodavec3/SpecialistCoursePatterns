@@ -1,6 +1,6 @@
-package graph;
+package CodeExamples.Behavioral.Visitor.graph;
 
-import exports.ExportVisitor;
+import CodeExamples.Behavioral.Visitor.exports.ExportVisitor;
 
 public class Circle extends GraphObject {
 	private Coords center;

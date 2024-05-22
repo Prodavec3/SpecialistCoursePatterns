@@ -1,3 +1,4 @@
+package CodeExamples.Creational.Prototype;
 
 public class ColorPoint extends Point implements Prototype{
 	String color;

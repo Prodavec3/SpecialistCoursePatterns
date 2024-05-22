@@ -1,4 +1,4 @@
-package graph;
+package CodeExamples.Behavioral.Visitor.graph;
 
 public abstract  class AbstractGOFactory {
 	public abstract Point createPoint();

@@ -1,4 +1,4 @@
-package walls;
+package CodeExamples.Creational.AbstractFactory.walls;
 
 public class BrickWall implements Wall {
 

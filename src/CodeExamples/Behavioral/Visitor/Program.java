@@ -1,6 +1,8 @@
-import graph.AbstractGOFactory;
-import graph.ColorGOFactory;
-import graph.Scene;
+package CodeExamples.Behavioral.Visitor;
+
+import CodeExamples.Behavioral.Visitor.graph.AbstractGOFactory;
+import CodeExamples.Behavioral.Visitor.graph.ColorGOFactory;
+import CodeExamples.Behavioral.Visitor.graph.Scene;
 
 public class Program {
 

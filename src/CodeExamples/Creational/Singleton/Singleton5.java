@@ -1,3 +1,4 @@
+package CodeExamples.Creational.Singleton;
 
 // on demand holder
 // + thread safe

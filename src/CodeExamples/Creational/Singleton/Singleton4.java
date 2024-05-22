@@ -1,3 +1,4 @@
+package CodeExamples.Creational.Singleton;
 
 // Double checked lock
 // + Thread safe

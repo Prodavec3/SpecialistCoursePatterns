@@ -1,10 +1,11 @@
-package widgets;
+package CodeExamples.Behavioral.Mediator.widgets;
+
 import static java.lang.System.out;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import controllers.Mediator;
+import CodeExamples.Behavioral.Mediator.controllers.Mediator;
 
 public class CompositeControl extends UIComponent {
 	protected final static char COMPOSITE_FRAME = '+';

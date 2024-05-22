@@ -1,4 +1,4 @@
-package windows;
+package CodeExamples.Creational.FactoryMethod.windows;
 
 public class PlasticFrameWindow implements Window {
 	@Override

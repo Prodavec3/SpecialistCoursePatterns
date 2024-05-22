@@ -1,4 +1,4 @@
-package graph;
+package Lab1.graph;
 
 public class Coords {
 	private int x,y;

@@ -1,6 +1,6 @@
-package nature.flyweight;
+package CodeExamples.Structural.Flyweight.nature.flyweight;
 
-import nature.Animal;
+import CodeExamples.Structural.Flyweight.nature.Animal;
 
 public class AnimalContext extends  Animal {
 	

@@ -1,4 +1,4 @@
-package roofs;
+package CodeExamples.Creational.AbstractFactory.roofs;
 
 public interface Roof {
 	Roof cover();

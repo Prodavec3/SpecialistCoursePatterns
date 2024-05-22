@@ -1,7 +1,8 @@
-package ui;
+package CodeExamples.Structural.Bridge.ui;
+
 import static java.lang.System.out;
 
-import platforms.Database;
+import CodeExamples.Structural.Bridge.platforms.Database;
 
 public class UserInterface {
 	private Database db;

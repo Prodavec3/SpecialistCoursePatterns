@@ -1,13 +1,14 @@
-package widgets;
+package CodeExamples.Behavioral.Command.widgets;
+
 import static java.lang.System.out;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import iterator.CompositeControlIterator;
-import iterator.ContentControlIterator;
-import iterator.IterableUICollection;
-import iterator.UIIterator;
+import CodeExamples.Behavioral.Command.iterator.CompositeControlIterator;
+import CodeExamples.Behavioral.Command.iterator.ContentControlIterator;
+import CodeExamples.Behavioral.Command.iterator.IterableUICollection;
+import CodeExamples.Behavioral.Command.iterator.UIIterator;
 
 public class CompositeControl extends UIComponent
 	implements IterableUICollection

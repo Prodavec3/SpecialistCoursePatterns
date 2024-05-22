@@ -1,4 +1,4 @@
-package nature;
+package CodeExamples.Structural.Flyweight.nature;
 
 import java.util.Random;
 

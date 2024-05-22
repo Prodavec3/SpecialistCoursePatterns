@@ -1,7 +1,9 @@
-import graph.AbstractGOFactory;
-import graph.ColorGOFactory;
-import graph.Scene;
-import graph.Scene.SceneSnapshot;
+package CodeExamples.Behavioral.Memento;
+
+import CodeExamples.Behavioral.Memento.graph.AbstractGOFactory;
+import CodeExamples.Behavioral.Memento.graph.ColorGOFactory;
+import CodeExamples.Behavioral.Memento.graph.Scene;
+import CodeExamples.Behavioral.Memento.graph.Scene.SceneSnapshot;
 
 public class Program {
 

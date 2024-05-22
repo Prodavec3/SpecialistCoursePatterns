@@ -1,9 +1,9 @@
-package iterator;
+package CodeExamples.Behavioral.Iterator.iterator;
 
 import java.util.Stack;
 
-import widgets.CompositeControl;
-import widgets.UIComponent;
+import CodeExamples.Behavioral.Iterator.widgets.CompositeControl;
+import CodeExamples.Behavioral.Iterator.widgets.UIComponent;
 
 // итератор всего дерева включая композиты
 public class CompositeControlIterator implements UIIterator {

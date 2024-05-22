@@ -1,5 +1,6 @@
-package facades;
-import widgets.MainWindow;
+package CodeExamples.Structural.Facade.facades;
+
+import CodeExamples.Structural.Facade.widgets.MainWindow;
 
 public abstract class AppCreatorFacade {
 	public abstract MainWindow getMainWindow();

@@ -1,4 +1,4 @@
-package graph;
+package CodeExamples.Behavioral.Visitor.graph;
 
 public class Coords {
 	private int x,y;

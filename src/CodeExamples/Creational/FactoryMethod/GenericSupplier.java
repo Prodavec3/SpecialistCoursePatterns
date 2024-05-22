@@ -1,4 +1,6 @@
-import windows.Window;
+package CodeExamples.Creational.FactoryMethod;
+
+import CodeExamples.Creational.FactoryMethod.windows.Window;
 
 public class GenericSupplier extends Supplier {
 	private Class<? extends Window> windowType;

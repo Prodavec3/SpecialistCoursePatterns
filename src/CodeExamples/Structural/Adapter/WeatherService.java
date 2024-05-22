@@ -1,3 +1,4 @@
+package CodeExamples.Structural.Adapter;
 
 public interface WeatherService {
 	double getTemperature();

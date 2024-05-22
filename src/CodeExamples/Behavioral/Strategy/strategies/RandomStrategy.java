@@ -1,4 +1,4 @@
-package strategies;
+package CodeExamples.Behavioral.Strategy.strategies;
 
 import java.util.Random;
 

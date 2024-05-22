@@ -1,6 +1,8 @@
-import commands.PrintCommand;
-import commands.VerifyCommand;
-import widgets.*;
+package CodeExamples.Behavioral.Command;
+
+import CodeExamples.Behavioral.Command.commands.PrintCommand;
+import CodeExamples.Behavioral.Command.commands.VerifyCommand;
+import CodeExamples.Behavioral.Command.widgets.*;
 
 public class Program {
 

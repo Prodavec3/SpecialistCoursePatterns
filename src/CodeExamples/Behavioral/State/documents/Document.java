@@ -1,6 +1,6 @@
-package documents;
+package CodeExamples.Behavioral.State.documents;
 
-import states.State;
+import CodeExamples.Behavioral.State.states.State;
 
 public abstract class Document {
 	private State state;

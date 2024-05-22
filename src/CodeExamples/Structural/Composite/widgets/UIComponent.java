@@ -1,4 +1,4 @@
-package widgets;
+package CodeExamples.Structural.Composite.widgets;
 
 public abstract class UIComponent {
 	public abstract boolean draw(int line);

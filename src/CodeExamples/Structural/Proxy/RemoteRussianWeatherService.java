@@ -1,3 +1,4 @@
+package CodeExamples.Structural.Proxy;
 
 public class RemoteRussianWeatherService implements WeatherService {
 

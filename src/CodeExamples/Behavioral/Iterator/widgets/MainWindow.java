@@ -1,4 +1,4 @@
-package widgets;
+package CodeExamples.Behavioral.Iterator.widgets;
 
 public class MainWindow extends CompositeControl {
 	@Override

@@ -1,6 +1,6 @@
-package controllers;
+package CodeExamples.Behavioral.Mediator.controllers;
 
-import widgets.UIComponent;
+import CodeExamples.Behavioral.Mediator.widgets.UIComponent;
 
 public interface Mediator {
 	void notify(UIComponent sender, String event);

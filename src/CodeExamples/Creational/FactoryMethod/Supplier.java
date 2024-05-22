@@ -1,4 +1,6 @@
-import windows.Window;
+package CodeExamples.Creational.FactoryMethod;
+
+import CodeExamples.Creational.FactoryMethod.windows.Window;
 
 // Может быть чисто абстрактным (интерфейсом)
 // или содержать реализацию

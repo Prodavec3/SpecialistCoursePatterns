@@ -1,4 +1,5 @@
-package widgets;
+package CodeExamples.Structural.Composite.widgets;
+
 import static java.lang.System.out;
 
 import java.util.ArrayList;

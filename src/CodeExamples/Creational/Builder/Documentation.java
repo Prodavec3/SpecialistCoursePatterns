@@ -1,3 +1,4 @@
+package CodeExamples.Creational.Builder;
 
 public class Documentation {
 	private boolean base = false;

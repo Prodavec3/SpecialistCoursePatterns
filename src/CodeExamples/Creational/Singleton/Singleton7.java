@@ -1,3 +1,4 @@
+package CodeExamples.Creational.Singleton;
 
 // + thread safe
 // + switch support

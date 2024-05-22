@@ -1,3 +1,5 @@
+package CodeExamples.Creational.Singleton;
+
 import static java.lang.System.out;
 
 public class Program {

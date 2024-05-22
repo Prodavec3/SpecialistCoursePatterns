@@ -1,4 +1,4 @@
-package windows;
+package CodeExamples.Creational.FactoryMethod.windows;
 
 public class MetalFrameWindow  implements Window {
 	@Override

@@ -1,5 +1,7 @@
-import facades.AppCreatorFacade;
-import facades.SimpleAppCreatorFacade;
+package CodeExamples.Structural.Facade;
+
+import CodeExamples.Structural.Facade.facades.AppCreatorFacade;
+import CodeExamples.Structural.Facade.facades.SimpleAppCreatorFacade;
 
 public class Program {
 

@@ -1,6 +1,6 @@
-package graph;
+package CodeExamples.Behavioral.Visitor.graph;
 
-import exports.ExportVisitor;
+import CodeExamples.Behavioral.Visitor.exports.ExportVisitor;
 
 public class Point extends GraphObject {
 	private Coords coords;

@@ -1,4 +1,4 @@
-package graph;
+package CodeExamples.Behavioral.Memento.graph;
 
 public class Coords implements Cloneable {
 	private int x,y;

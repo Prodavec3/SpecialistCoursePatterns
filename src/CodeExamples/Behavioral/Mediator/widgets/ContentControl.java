@@ -1,4 +1,4 @@
-package widgets;
+package CodeExamples.Behavioral.Mediator.widgets;
 
 public abstract class ContentControl extends UIComponent {
 	private String text;

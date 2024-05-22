@@ -1,4 +1,4 @@
-package widgets;
+package CodeExamples.Behavioral.Command.widgets;
 
 public class Label extends ContentControl {
 

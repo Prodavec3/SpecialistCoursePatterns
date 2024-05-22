@@ -1,4 +1,4 @@
-package commands;
+package CodeExamples.Behavioral.Command.commands;
 
 public interface CommandInvoker {
 	void setCommand(Command command);

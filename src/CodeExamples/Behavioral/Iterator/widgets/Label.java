@@ -1,4 +1,4 @@
-package widgets;
+package CodeExamples.Behavioral.Iterator.widgets;
 
 public class Label extends ContentControl {
 
@@ -14,6 +14,4 @@ public class Label extends ContentControl {
 		}
 		return false; 
 	}
-
-
 }

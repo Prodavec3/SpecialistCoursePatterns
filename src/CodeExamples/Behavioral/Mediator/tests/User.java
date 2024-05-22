@@ -1,6 +1,6 @@
-package tests;
+package CodeExamples.Behavioral.Mediator.tests;
 
-import widgets.Button;
+import CodeExamples.Behavioral.Mediator.widgets.Button;
 
 public class User {
 	public static Button verifyButton; // только для иммитации нажатия

@@ -1,5 +1,6 @@
+package CodeExamples.Behavioral.Observer;
 
-public class Lamp implements ElectricityListener 
+public class Lamp implements ElectricityListener
 {
 
 	@Override

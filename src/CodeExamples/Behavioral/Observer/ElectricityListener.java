@@ -1,3 +1,4 @@
+package CodeExamples.Behavioral.Observer;
 
 @FunctionalInterface
 public interface ElectricityListener

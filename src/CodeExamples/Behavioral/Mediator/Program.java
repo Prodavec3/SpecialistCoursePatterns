@@ -1,5 +1,7 @@
-import controllers.WinController;
-import static tests.User.verifyButton;
+package CodeExamples.Behavioral.Mediator;
+
+import CodeExamples.Behavioral.Mediator.controllers.WinController;
+import static CodeExamples.Behavioral.Mediator.tests.User.verifyButton;
 
 public class Program {
 

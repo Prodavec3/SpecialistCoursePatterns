@@ -1,3 +1,5 @@
+package CodeExamples.Creational.Prototype;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -13,7 +15,7 @@ public class Program {
 		protos.put("green", new ColorPoint(0, 0, "green"));
 	}
 
-	public static Point  createPoint() {
+	public static Point createPoint() {
 		return DEFAULT_POINT.clone();
 	}
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package windows;
+package CodeExamples.Creational.AbstractFactory.windows;
 import static java.lang.System.out;
 
 public class PlasticFrameWindow implements Window {

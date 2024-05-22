@@ -1,10 +1,11 @@
-package controllers;
+package CodeExamples.Behavioral.Mediator.controllers;
 
-import widgets.Button;
-import widgets.CompositeControl;
-import widgets.Label;
-import widgets.MainWindow;
-import widgets.UIComponent;
+import CodeExamples.Behavioral.Mediator.widgets.Button;
+import CodeExamples.Behavioral.Mediator.widgets.CompositeControl;
+import CodeExamples.Behavioral.Mediator.widgets.Label;
+import CodeExamples.Behavioral.Mediator.widgets.MainWindow;
+import CodeExamples.Behavioral.Mediator.widgets.UIComponent;
+import CodeExamples.Behavioral.Mediator.tests.User;
 
 public class WinController implements Mediator {
 	private CompositeControl mainWin;
@@ -18,8 +19,8 @@ public class WinController implements Mediator {
 		
 		frame1.add(new Label("Login")).add(new Button("OK"));
 		
-		tests.User.verifyButton = new Button("Verify"); // только для иммитации нажатия
-		frame2.add(new Label("Password")).add(tests.User.verifyButton);
+		User.verifyButton = new Button("Verify"); // только для иммитации нажатия
+		frame2.add(new Label("Password")).add(User.verifyButton);
 		
 		printButton = new Button("Print");
 		printButton.setVisible(false);
@@ -28,7 +29,7 @@ public class WinController implements Mediator {
 				add(new CompositeControl().add(printButton));
 		
 		mainWin.setController(this);
-		
+
 		return mainWin;
 	}
 

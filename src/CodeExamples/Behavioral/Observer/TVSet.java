@@ -1,3 +1,4 @@
+package CodeExamples.Behavioral.Observer;
 
 public class TVSet implements ElectricityListener
 {

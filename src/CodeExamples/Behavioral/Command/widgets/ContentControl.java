@@ -1,4 +1,4 @@
-package widgets;
+package CodeExamples.Behavioral.Command.widgets;
 
 public abstract class ContentControl extends UIComponent {
 	private String text;

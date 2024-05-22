@@ -1,6 +1,6 @@
-package documents;
+package CodeExamples.Behavioral.State.documents;
 
-import states.DraftState;
+import CodeExamples.Behavioral.State.states.DraftState;
 
 public class Invoice extends Document{
 	

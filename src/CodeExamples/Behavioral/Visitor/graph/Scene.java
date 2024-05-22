@@ -1,12 +1,12 @@
-package graph;
+package CodeExamples.Behavioral.Visitor.graph;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import exports.ExportVisitor;
-import exports.Exportable;
-import exports.JSONExportVisitor;
+import CodeExamples.Behavioral.Visitor.exports.ExportVisitor;
+import CodeExamples.Behavioral.Visitor.exports.Exportable;
+import CodeExamples.Behavioral.Visitor.exports.JSONExportVisitor;
 
 public class Scene {
 	private List<GraphObject> objects ;

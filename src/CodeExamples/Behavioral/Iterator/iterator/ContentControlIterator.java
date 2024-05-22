@@ -1,8 +1,8 @@
-package iterator;
+package CodeExamples.Behavioral.Iterator.iterator;
 
-import widgets.CompositeControl;
-import widgets.ContentControl;
-import widgets.UIComponent;
+import CodeExamples.Behavioral.Iterator.widgets.CompositeControl;
+import CodeExamples.Behavioral.Iterator.widgets.ContentControl;
+import CodeExamples.Behavioral.Iterator.widgets.UIComponent;
 
 // итератор только для ContentControl
 public class ContentControlIterator extends CompositeControlIterator {

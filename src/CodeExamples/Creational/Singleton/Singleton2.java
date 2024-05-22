@@ -1,3 +1,4 @@
+package CodeExamples.Creational.Singleton;
 
 // + Thread safe
 // - no laze init (Объект instance будет создан classloader-ом во время инициализации класса) 

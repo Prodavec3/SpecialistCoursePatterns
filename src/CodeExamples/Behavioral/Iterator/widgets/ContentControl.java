@@ -1,4 +1,4 @@
-package widgets;
+package CodeExamples.Behavioral.Iterator.widgets;
 
 public abstract class ContentControl extends UIComponent {
 	private String text;
@@ -26,7 +26,4 @@ public abstract class ContentControl extends UIComponent {
 	public int getHeight() {
 		return 1;
 	}
-	
-	
-	
 }

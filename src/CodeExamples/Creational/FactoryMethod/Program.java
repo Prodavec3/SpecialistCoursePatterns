@@ -1,8 +1,10 @@
+package CodeExamples.Creational.FactoryMethod;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import windows.MetalFrameWindow;
-import windows.Window;
+import CodeExamples.Creational.FactoryMethod.windows.MetalFrameWindow;
+import CodeExamples.Creational.FactoryMethod.windows.Window;
 
 public class Program {
 	

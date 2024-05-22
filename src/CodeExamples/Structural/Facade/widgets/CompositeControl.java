@@ -1,4 +1,5 @@
-package widgets;
+package CodeExamples.Structural.Facade.widgets;
+
 import static java.lang.System.out;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package widgets;
+package CodeExamples.Structural.Facade.widgets;
 
 public class MainWindow extends CompositeControl {
 	@Override

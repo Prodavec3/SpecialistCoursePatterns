@@ -1,3 +1,5 @@
+package CodeExamples.Structural.Proxy;
+
 import java.io.Closeable;
 
 public class RussianWeatherProxy implements WeatherService, Closeable {

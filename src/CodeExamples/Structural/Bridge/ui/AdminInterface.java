@@ -1,5 +1,6 @@
-package ui;
-import platforms.Database;
+package CodeExamples.Structural.Bridge.ui;
+
+import CodeExamples.Structural.Bridge.platforms.Database;
 
 public class AdminInterface extends UserInterface{
 	

@@ -1,3 +1,5 @@
+package CodeExamples.Structural.Proxy;
+
 import static java.lang.System.out;
 public class Program {
 

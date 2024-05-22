@@ -1,6 +1,8 @@
-import graph.AbstractGOFactory;
-import graph.ColorGOFactory;
-import graph.Scene;
+package Lab1;
+
+import Lab1.graph.AbstractGOFactory;
+import Lab1.graph.ColorGOFactory;
+import Lab1.graph.Scene;
 
 public class Program {
 

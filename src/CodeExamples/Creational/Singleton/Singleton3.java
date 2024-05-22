@@ -1,3 +1,4 @@
+package CodeExamples.Creational.Singleton;
 
 // + Thread safe
 // - perfomance (every time sync)

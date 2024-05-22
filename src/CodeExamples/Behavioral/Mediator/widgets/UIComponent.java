@@ -1,6 +1,6 @@
-package widgets;
+package CodeExamples.Behavioral.Mediator.widgets;
 
-import controllers.Mediator;
+import CodeExamples.Behavioral.Mediator.controllers.Mediator;
 
 public abstract class UIComponent {
 	public abstract boolean draw(int line);

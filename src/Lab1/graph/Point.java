@@ -1,4 +1,4 @@
-package graph;
+package Lab1.graph;
 
 public class Point extends GraphObject {
 	private Coords coords;

@@ -1,7 +1,7 @@
-package widgets;
+package CodeExamples.Behavioral.ChainOfResponsibility.widgets;
 
-import events.EventRequest;
-import events.Handler;
+import CodeExamples.Behavioral.ChainOfResponsibility.events.EventRequest;
+import CodeExamples.Behavioral.ChainOfResponsibility.events.Handler;
 
 // Будет также выcтупать в роли BaseHandler
 public abstract class UIComponent implements Handler{

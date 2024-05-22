@@ -1,4 +1,4 @@
-package graph;
+package Lab1.graph;
 
 public abstract class GraphObject implements Cloneable{
 	

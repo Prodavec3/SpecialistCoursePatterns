@@ -1,4 +1,5 @@
-package widgets;
+package CodeExamples.Behavioral.ChainOfResponsibility.widgets;
+
 import static java.lang.System.out;
 
 import java.util.ArrayList;

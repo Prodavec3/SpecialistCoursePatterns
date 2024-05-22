@@ -1,7 +1,8 @@
-package widgets;
+package CodeExamples.Behavioral.ChainOfResponsibility.widgets;
+
 import static java.lang.System.out;
 
-import events.EventRequest;
+import CodeExamples.Behavioral.ChainOfResponsibility.events.EventRequest;
 
 public class Button extends ContentControl {
 	final static char BUTTON_FRAME = '*';
