@@ -10,9 +10,9 @@ public class Program {
 	static Map<String, Prototype> protos;
 	static {
 		protos = new HashMap<String, Prototype>();
-		protos.put("default", new ColorPoint(0, 0, "black"));
-		protos.put("red", new ColorPoint(0, 0, "red"));
-		protos.put("green", new ColorPoint(0, 0, "green"));
+		protos.put("default", new ColorPoint(0, 0, new StringBuilder("black")));
+		protos.put("red", new ColorPoint(0, 0, new StringBuilder("red")));
+		protos.put("green", new ColorPoint(0, 0, new StringBuilder("green")));
 	}
 
 	public static Point createPoint() {

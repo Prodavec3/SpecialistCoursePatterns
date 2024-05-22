@@ -1,5 +1,5 @@
 package CodeExamples.Creational.Prototype;
-
+// Реализация паттерна - интерфейс Cloneable в Java библиотеке
 public class Point implements Cloneable {
 
 	int x, y;
