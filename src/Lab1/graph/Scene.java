@@ -8,7 +8,7 @@ public class Scene {
 	public static final Scene instance = new Scene();
 	
 	private Scene() {
-		objects = new ArrayList<GraphObject>();
+		objects = new ArrayList<>();
 	}
 	
 	public void add(GraphObject o) {
