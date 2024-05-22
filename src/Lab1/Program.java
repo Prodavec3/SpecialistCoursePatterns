@@ -16,5 +16,4 @@ public class Program {
 		Scene.instance.draw();
 
 	}
-
 }

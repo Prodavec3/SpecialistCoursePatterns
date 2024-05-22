@@ -16,5 +16,4 @@ public class ColorGOFactory extends AbstractGOFactory {
 		Scene.instance.add(c);
 		return c;
 	}
-
 }

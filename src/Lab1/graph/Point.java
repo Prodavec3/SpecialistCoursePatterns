@@ -41,5 +41,4 @@ public class Point extends GraphObject {
 		System.out.printf("Point (%d, %d) %s\n", getX(), getY(), getColor());
 		
 	}
-
 }

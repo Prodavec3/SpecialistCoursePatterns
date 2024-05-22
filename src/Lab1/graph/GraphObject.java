@@ -13,7 +13,6 @@ public abstract class GraphObject implements Cloneable{
 		this.color = color;
 	}
 
-
 	public String getColor() {
 		return color;
 	}
@@ -23,5 +22,4 @@ public abstract class GraphObject implements Cloneable{
 	}
 
 	public abstract void draw();
-
 }

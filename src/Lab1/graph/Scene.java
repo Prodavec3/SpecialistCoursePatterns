@@ -23,6 +23,4 @@ public class Scene {
 		for(GraphObject g : objects)
 			g.draw();
 	}
-	
-
 }

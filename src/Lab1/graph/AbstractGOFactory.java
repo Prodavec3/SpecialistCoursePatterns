@@ -5,5 +5,4 @@ public abstract  class AbstractGOFactory {
 	
 	//public abstract Line createLine();
 	public abstract Circle createCircle();
-
 }

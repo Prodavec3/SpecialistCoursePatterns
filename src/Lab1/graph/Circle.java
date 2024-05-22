@@ -52,7 +52,4 @@ public class Circle extends GraphObject {
 		System.out.printf("Circle (%d, %d) R: %d %s\n", getX(), getY(), getR(), getColor());
 		
 	}
-	
-	
-
 }
